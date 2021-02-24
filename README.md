@@ -15,4 +15,5 @@ Za implementaciju koristiće se Python i njegova biblioteka OpenCV.
 Za detekciju ljudi u kadru ćemo koristiti YOLOv3 treniran na COCO dataset-u.
 NMS (Non-maxima suppression) za smanjenje preklapanja bounding box-a oko detektovanih objekata.
 Izračunava se distanca između detektovanih ljudi u svakom kadru.
+
 Validacija će biti vršena empirijski.
