@@ -16,7 +16,7 @@ Validacija će biti vršena empirijski.
 
 **Pokretanje**:
   - Instaliramo potrebne zavisnosti: `pip install -r dependencies.txt`
-  - Skinemo weights [file](https://drive.google.com/drive/folders/1TXWoATd2o2I8oGH_bEOELG8lrXmJH_4S?usp=sharing) i ubacimo ga u yolo folder
+  - Skinemo weights [file](https://drive.google.com/file/d/1FXp6QhGfq4tY1n1qBJ00IZasw03LdLro/view?usp=sharing) i ubacimo ga u yolo folder
   - Za pokretanje kamere koristimo samo: `python run.py`
   - Za pokretanje sample videa u realnom vremenu: `python run.py -i video_files/sample1.mp4`
   - Za pokretanje sample videa i upis u output file na disku: `python run.py -i video_files/sample1.mp4 -o video_files/sample1Output.avi -d 0`, (`-d 0` komanda kaže da se proces izvršava u pozadini)
