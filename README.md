@@ -1,4 +1,4 @@
-# Soft kompjuting 2020/2021 - Detekcija socijalne distance
+# Detekcija socijalne distance
 
 Socijalna distanca je jedan od najefektivnijih načina za prevenciju virusa COVID-19. Identifikacija i sprovođenje ove mere je jedan od najbitnijih faktora koje su preporučene od strane zdravstvenih organizacija, tako da je to i motivacija izrade ovog projekta u cilju suzbijanja virusa na otvorenim i zatvorenim površinama.
 
